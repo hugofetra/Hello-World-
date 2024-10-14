@@ -1,2 +1,2 @@
 # Hello, World!
- Primeiro passo para a realização pessoal e profissional
+ Primeiro passo para a realização pessoal e profissional.
